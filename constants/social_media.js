@@ -4,7 +4,7 @@ export const SOCIAL_MEDIA = [
 	{
 		id: "linkedin",
 		icon: <BsTwitter />,
-		title: "Visit LinkedIn profile",
+		title: "Visit X profile",
 		url: "https://x.com/NiranjanxPatil"
 	},
 	{
