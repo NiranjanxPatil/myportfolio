@@ -33,7 +33,7 @@ export function AboutSection() {
                         </p>
                         <p className="my-3.5">
                             In <span className="bg-yellow-600 text-black px-2 rounded-lg">2023</span>, I seized the opportunity to work as a <span className="bg-yellow-600 text-black px-2 rounded-lg">Next.js developer</span> and <span className="bg-yellow-600 text-black px-2 rounded-lg">DevOps engineer</span>, driven by self-improvement and the desire to contribute to the community and open source projects.
-                            I'm continuously learning and growing, and I'm excited for what lies ahead.
+                            I'm continuously learning and growingg, and I'm excited for what lies ahead.
                         </p>
                     </div>
                 </div>
